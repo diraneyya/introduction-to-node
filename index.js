@@ -1,1 +1,3 @@
-require("cowsay");
+const cowsayObject = require("cowsay");
+
+console.dir(cowsayObject);
