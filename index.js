@@ -1,3 +1,12 @@
 const cowsayObject = require("cowsay");
 
-console.dir(cowsayObject);
+// Build in babysteps
+
+const sayParameter = {
+    text: 'Hello NPM!',
+};
+
+const cowsayOutput = cowsayObject.say(
+    sayParameter);
+
+console.log(cowsayOutput);
