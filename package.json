@@ -11,7 +11,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "github.com/diraneyya/my-awesome-project"
+    "url": "git@github.com:diraneyya/introduction-to-node.git"
   },
   "dependencies": {
     "cowsay": "^1.5.0"
