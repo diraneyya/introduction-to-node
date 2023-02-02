@@ -1,0 +1,19 @@
+{
+  "name": "my-awesome-project",
+  "version": "0.0.1",
+  "description": "This is a demonstrator project during class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Orwa",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "github.com/diraneyya/my-awesome-project"
+  },
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
